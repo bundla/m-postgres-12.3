@@ -4,7 +4,7 @@ Docker Compose module for the project [Bundla](https://github.com/tgaru/bundla).
 
 ## Specifications
 
-**Key name:** `bundla/m-postgres-12.3`
+**Module-key:** `bundla/m-postgres-12.3`
 
 **Image based:** [postgres:12.3](https://hub.docker.com/_postgres)
 
